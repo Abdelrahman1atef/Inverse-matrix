@@ -1,0 +1,17 @@
+C:\Programing\C#\Matrix Inverse\Matrix Inverse\bin\Debug\net8.0\Matrix Inverse.exe
+C:\Programing\C#\Matrix Inverse\Matrix Inverse\bin\Debug\net8.0\Matrix Inverse.deps.json
+C:\Programing\C#\Matrix Inverse\Matrix Inverse\bin\Debug\net8.0\Matrix Inverse.runtimeconfig.json
+C:\Programing\C#\Matrix Inverse\Matrix Inverse\bin\Debug\net8.0\Matrix Inverse.dll
+C:\Programing\C#\Matrix Inverse\Matrix Inverse\bin\Debug\net8.0\Matrix Inverse.pdb
+C:\Programing\C#\Matrix Inverse\Matrix Inverse\obj\Debug\net8.0\Matrix Inverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\C#\Matrix Inverse\Matrix Inverse\obj\Debug\net8.0\Matrix Inverse.AssemblyInfoInputs.cache
+C:\Programing\C#\Matrix Inverse\Matrix Inverse\obj\Debug\net8.0\Matrix Inverse.AssemblyInfo.cs
+C:\Programing\C#\Matrix Inverse\Matrix Inverse\obj\Debug\net8.0\Matrix Inverse.csproj.CoreCompileInputs.cache
+C:\Programing\C#\Matrix Inverse\Matrix Inverse\obj\Debug\net8.0\Matrix Inverse.dll
+C:\Programing\C#\Matrix Inverse\Matrix Inverse\obj\Debug\net8.0\refint\Matrix Inverse.dll
+C:\Programing\C#\Matrix Inverse\Matrix Inverse\obj\Debug\net8.0\Matrix Inverse.pdb
+C:\Programing\C#\Matrix Inverse\Matrix Inverse\obj\Debug\net8.0\Matrix Inverse.genruntimeconfig.cache
+C:\Programing\C#\Matrix Inverse\Matrix Inverse\obj\Debug\net8.0\ref\Matrix Inverse.dll
+C:\Programing\C#\Matrix Inverse\Matrix Inverse\obj\Debug\net8.0\Matrix Inverse.csproj.AssemblyReference.cache
+C:\Programing\C#\Matrix Inverse\Matrix Inverse\bin\Debug\net8.0\MathNet.Numerics.dll
+C:\Programing\C#\Matrix Inverse\Matrix Inverse\obj\Debug\net8.0\Matrix Inverse.csproj.CopyComplete
